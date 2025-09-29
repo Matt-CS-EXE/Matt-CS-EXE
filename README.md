@@ -6,6 +6,10 @@ My name is Matt. I am a computer science major at UTRGV. I am interested in comp
 ### Contact Info:
 LinkedIn: www.linkedin.com/in/matthew-malek-53393a383
 
+### Programming Languages
+Visual Basic.NET
+C++
+
 <!--
 **Matt-CS-EXE/Matt-CS-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
