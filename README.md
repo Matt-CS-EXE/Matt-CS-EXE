@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### About Me:
+My name is Matt. I am a computer science major at UTRGV. I am interested in computer programming, computer networking and databases.
+
 <!--
 **Matt-CS-EXE/Matt-CS-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
